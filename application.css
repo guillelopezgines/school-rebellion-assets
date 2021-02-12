@@ -40,7 +40,6 @@ body {
 }
 .banner {
   background: #67A5B5;
-  /*background: white;*/
   font-size: 25px;
   font-weight: bold;
   line-height: 23px;
@@ -63,8 +62,6 @@ body {
   text-decoration: underline;
 }
 .page {
-  background: white;
-  background: #67A5B5;
   padding-bottom: 20px;
 }
 .index .text {
